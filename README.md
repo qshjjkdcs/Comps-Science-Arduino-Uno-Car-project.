@@ -19,3 +19,6 @@ The former value controls the amount of distance the car travels, which is measu
 turning left, and a positive value right.
 
 After completing a successful circuit, the car would wait for 5 seconds before looping the circuit.
+
+
+Note: Pull off L298N Jumper Caps, or the motor speed would not be controllable.
